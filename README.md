@@ -1,5 +1,3 @@
-# eCommerce_Transactions_Analysis
-
 # eCommerce Transactions Analysis
 
 ## Overview
