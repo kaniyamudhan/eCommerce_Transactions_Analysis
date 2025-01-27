@@ -44,6 +44,7 @@ The dataset comprises three files:
     cd eCommerce_Transactions_Analysis
    
 3. Open the respective Jupyter Notebook files:
+   
    Task_1_EDA/Kaniyamudhan_Y_EDA.ipynb
    
    Task_2_Lookalike/Kaniyamudhan_Y_Lookalike.ipynb
@@ -62,9 +63,11 @@ Clustering:
 Groups customers into segments to optimize marketing strategies.
 
 Dependencies
+
 Python 3.8+
 
 Libraries:
+
 pandas
 numpy
 matplotlib
