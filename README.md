@@ -32,23 +32,7 @@ The dataset comprises three files:
     - `Kaniyamudhan_Y_Clustering.pdf`
 
 ## Repository Structure
-eCommerce_Transactions_Analysis/
-├── Task_1_EDA/
-│   ├── Kaniyamudhan_Y_EDA.pdf
-│   └── Kaniyamudhan_Y_EDA.ipynb
-├── Task_2_Lookalike/
-│   ├── Kaniyamudhan_Y_Lookalike.csv
-│   └── Kaniyamudhan_Y_Lookalike.ipynb
-├── Task_3_Clustering/
-│   ├── Kaniyamudhan_Y_Clustering.pdf
-│   └── Kaniyamudhan_Y_Clustering.ipynb
-├── data/
-│   ├── Customers.csv
-│   ├── Products.csv
-│   └── Transactions.csv
-├── requirements.txt
-└── README.md
-
+![capture_250127_202720](https://github.com/user-attachments/assets/91febc0c-abe9-4c0a-8681-0b57ae456faf)
 
 ## How to Run
 1. Clone the repository:
