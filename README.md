@@ -38,14 +38,19 @@ The dataset comprises three files:
 1. Clone the repository:
    ```bash
    git clone https://github.com/<your-username>/eCommerce_Transactions_Analysis.git
+   
 2. Navigate to the folder:
    ```bash
     cd eCommerce_Transactions_Analysis
+   
 3. Open the respective Jupyter Notebook files:
    Task_1_EDA/Kaniyamudhan_Y_EDA.ipynb
+   
    Task_2_Lookalike/Kaniyamudhan_Y_Lookalike.ipynb
+   
    Task_3_Clustering/Kaniyamudhan_Y_Clustering.ipynb
-4. Run each notebook to explore the results.
+   
+5. Run each notebook to explore the results.
 
 Insights Summary
 EDA Insights:
@@ -58,6 +63,7 @@ Groups customers into segments to optimize marketing strategies.
 
 Dependencies
 Python 3.8+
+
 Libraries:
 pandas
 numpy
