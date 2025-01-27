@@ -31,7 +31,3 @@ The dataset comprises three files:
     - `Kaniyamudhan_Y_Clustering.ipynb`
     - `Kaniyamudhan_Y_Clustering.pdf`
 
-
-Install dependencies using:
-```bash
-pip install -r requirements.txt
