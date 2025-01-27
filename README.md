@@ -34,7 +34,22 @@ The dataset comprises three files:
     - `Kaniyamudhan_Y_Clustering.pdf`
 
 ## Repository Structure
-eCommerce_Transactions_Analysis/ ├── Task_1_EDA/ │ ├── Kaniyamudhan_Y_EDA.pdf │ └── Kaniyamudhan_Y_EDA.ipynb ├── Task_2_Lookalike/ │ ├── Kaniyamudhan_Y_Lookalike.csv │ └── Kaniyamudhan_Y_Lookalike.ipynb ├── Task_3_Clustering/ │ ├── Kaniyamudhan_Y_Clustering.pdf │ └── Kaniyamudhan_Y_Clustering.ipynb ├── data/ │ ├── Customers.csv │ ├── Products.csv │ └── Transactions.csv └── README.md
+eCommerce_Transactions_Analysis/
+├── Task_1_EDA/
+│   ├── Kaniyamudhan_Y_EDA.pdf
+│   └── Kaniyamudhan_Y_EDA.ipynb
+├── Task_2_Lookalike/
+│   ├── Kaniyamudhan_Y_Lookalike.csv
+│   └── Kaniyamudhan_Y_Lookalike.ipynb
+├── Task_3_Clustering/
+│   ├── Kaniyamudhan_Y_Clustering.pdf
+│   └── Kaniyamudhan_Y_Clustering.ipynb
+├── data/
+│   ├── Customers.csv
+│   ├── Products.csv
+│   └── Transactions.csv
+├── requirements.txt
+└── README.md
 
 
 ## How to Run
