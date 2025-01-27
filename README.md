@@ -31,49 +31,6 @@ The dataset comprises three files:
     - `Kaniyamudhan_Y_Clustering.ipynb`
     - `Kaniyamudhan_Y_Clustering.pdf`
 
-## Repository Structure
-![capture_250127_202720](https://github.com/user-attachments/assets/91febc0c-abe9-4c0a-8681-0b57ae456faf)
-
-## How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/<your-username>/eCommerce_Transactions_Analysis.git
-   
-2. Navigate to the folder:
-   ```bash
-    cd eCommerce_Transactions_Analysis
-   
-3. Open the respective Jupyter Notebook files:
-   
-   Task_1_EDA/Kaniyamudhan_Y_EDA.ipynb
-   
-   Task_2_Lookalike/Kaniyamudhan_Y_Lookalike.ipynb
-   
-   Task_3_Clustering/Kaniyamudhan_Y_Clustering.ipynb
-   
-5. Run each notebook to explore the results.
-
-Insights Summary
-EDA Insights:
-Key trends and patterns in customer transactions.
-Popular products and high-spending regions.
-Lookalike Model:
-Identifies similar customers based on demographic and transaction features.
-Clustering:
-Groups customers into segments to optimize marketing strategies.
-
-Dependencies
-
-Python 3.8+
-
-Libraries:
-
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
-scipy
 
 Install dependencies using:
 ```bash
